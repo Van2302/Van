@@ -1,0 +1,13 @@
+.contact {
+display: inline-flex;
+}
+.contact >img {
+height:150px;
+width: 150px;
+margin-right:15px;
+}
+
+.mail {
+	display:block;
+	text-align:left;
+}
